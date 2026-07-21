@@ -13,12 +13,6 @@ Aufbau ab Juli 2026 von Grundlagen bis Security.
 ## Status
 |
 |
--------
-|
-------------------------
-|
-----------------
-|
 |
  0     
 |
