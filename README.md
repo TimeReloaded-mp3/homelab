@@ -2,7 +2,7 @@
 Doku vom Homelab 
 
 # Mein Homelab
-Aufbau ab Juli 2026 – von Grundlagen bis Security.
+Aufbau ab Juli 2026 von Grundlagen bis Security.
 
 ## Geplant
 - Proxmox-Server mit VMs
